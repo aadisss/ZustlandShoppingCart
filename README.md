@@ -22,7 +22,7 @@ This is a simple React Native project showcasing the usage of Zustand, a small a
 1. Clone the repository:
 
    \`\`\`bash
-   git clone https://github.com/your-username/your-repo.git
+   git clone https://github.com/aadisss/ZustlandShoppingCart.git
    \`\`\`
 
 2. Navigate to the project directory:

@@ -59,15 +59,7 @@ The app consists of a home screen where you can enter the name and price of an i
 
 The state management is handled using Zustand. The \`useCartStore\` hook provides access to the cart state and actions to add items to the cart.
 
-## Folder Structure
 
-- \`src\`: Contains the source code files
-  - \`components\`: Reusable components used in the app
-  - \`screens\`: Top-level screens of the app
-  - \`store\`: Zustand store and related logic
-  - \`navigation\`: App navigation configuration
-  - \`App.js\`: Entry point of the app
-- \`App\`: Android and iOS project files
 
 ## Contributing
 
